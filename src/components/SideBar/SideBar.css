@@ -1,0 +1,15 @@
+.page-sidebar {
+    background-color: #1d1d1f;
+}
+
+.page-sidebar-link-wrapper {
+    width: 100%;
+    height: 35px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.page-sidebar-link {
+    text-decoration: none;
+    color: rgba(214, 218, 223, 1.0);
+}

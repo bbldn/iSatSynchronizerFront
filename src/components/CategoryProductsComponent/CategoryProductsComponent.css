@@ -1,0 +1,7 @@
+.synchronize-top {
+    margin-top: 10px;
+}
+
+.rct-icons-fa4 .rct-icon-leaf::before {
+    content: "\f114";
+}
